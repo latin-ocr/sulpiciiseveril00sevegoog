@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sulpiciiseveril00sevegoog_0008.png"; bbox 0 0 3834 5634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 509 4460 922 4506">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 509 4460 922 4506">
+     <span class='ocr_line' id='line_1_1' title="bbox 509 4460 922 4506; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 509 4463 589 4506; x_wconf 81' lang='lat' dir='ltr'><strong>&#39;IYPIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 604 4461 704 4505; x_wconf 74' lang='lat' dir='ltr'><strong>CAROLI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 720 4460 829 4504; x_wconf 68' lang='lat' dir='ltr'><strong>monn</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 845 4460 922 4502; x_wconf 81' lang='lat' dir='ltr'><strong>FILII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1922 5634">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1922 5634">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1922 5634; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1922 5634; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,18 @@
+V = codex Veronensis saec. VII
+
+A = codex quondam Augustanus, nunc Monacensis lat. n. 3711 saec. XL
+B = codex Brixianus, qno usus est Hier. de Prato, saec. XIIII.
+
+F = codex quondam Frisingensis‚ nunc Monacensis ‚lan n. 6326 saec. X.
+M: editio Boniui Membriiii in vitis Sanctorum.
+
+Q=codex Quodlinburgensis ex collatione Tobiae Eckhardi, n Codd.
+
+manuscr. Quodlinbnrgenscs (Quedlirrb. 1723. 4⁰) p. 57 sqq.
+a = editio nouato, cuius scripturae iam ab Hier. de Prato multis locis
+
+correctae suni. -
+Integram dedimus lectionum diuersitatem ex AFV.
+
+ 
+
